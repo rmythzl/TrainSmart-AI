@@ -46,6 +46,7 @@ Copiar código
   - **Treino de Força - Membros Inferiores**:
     - Agachamentos (3x15) – Para quadríceps e glúteos.
     - Elevação de Panturrilhas (3x12) – Fortalece as pernas.
+- **Sexta-feira**: 
   - **Treino Cardio Intervalado**: 20 min de bicicleta.
 - **Sábado e Domingo**: 
   - **Descanso**: Aproveite para relaxar e recuperar!
