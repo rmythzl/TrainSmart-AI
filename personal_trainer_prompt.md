@@ -24,11 +24,13 @@ Crie uma resposta bem estruturada, organizada e visualmente atraente, que faça 
 
 Exemplo de Resposta Esperada:
 
-markdown
-Copiar código
+
 🚀 **Objetivo**: Perda de Peso
+
 ⏰ **Duração da Sessão**: 30 Minutos
+
 🏋️ **Biotipo**: Mesomorfo
+
 🎯 **Nível de Experiência**: Intermediário
 
 ### **Semana 1 - Vamos nessa!**
